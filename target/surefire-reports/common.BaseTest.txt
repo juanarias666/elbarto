@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: common.BaseTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 2.007 s <<< FAILURE! - in common.BaseTest
+abrirNavegador(common.BaseTest)  Time elapsed: 0.726 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeTest on method abrirNavegador but has not been marked @Optional or defined
+
+
